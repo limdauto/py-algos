@@ -5,6 +5,6 @@ in Haskell. Funny how I can't never remember these things and once every couple 
 
 ## Listings
 
-- [Graphs](graphs/): dfs, bfs, transitive closure, dag, dijkstra
+- [Graphs](graph/): dfs, bfs, transitive closure, dag, dijkstra
 
 zzz
